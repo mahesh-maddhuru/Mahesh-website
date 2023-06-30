@@ -1,8 +1,8 @@
 let config = {
   emailjs: {
-    serviceID: "service_zgn3pzg",
+    serviceID: "service_1jww56m",
     templateID: "template_fuqwfuj",
-    userID: "user_lvJPo2T7f3piQuVteW4Em"
+    userID: "IVYmv1KGoK91bzkY4"
   }
 };
 
