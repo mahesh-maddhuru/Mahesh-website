@@ -9,11 +9,11 @@ let info = {
     }
   },
   description:
-    "I am a seasoned software engineer with over three and a half years of professional experience. My professional drive is fueled by three core pillars: \"Inquisitiveness\", \"Perseverance\", and \"Insightfulness\". These pillars have been meticulously constructed throughout various phases of my life, enabling me to stand out amidst a bustling community of engineers. These strengths empower me to create innovative solutions that make a meaningful impact.",
+    "As a software engineer, I've had the privilege of gaining over three and a half years of valuable professional experience. Throughout my journey, I've cultivated three core pillars that continue to fuel my passion for this field: \"Inquisitiveness,\" \"Perseverance,\" and \"Insightfulness.\" These pillars have been carefully nurtured, shaping me into the engineer I am today, and allowing me to stand out in a bustling community of talented individuals. With these strengths at my disposal, I find myself driven to create innovative solutions that have a meaningful impact. I am grateful for the opportunities that have come my way, and I'm eager to continue learning and growing in this ever-evolving field.",
   links: {
     linkedin: "http://www.linkedin.com/in/mahesh-m97",
     github: "https://github.com/mahesh-maddhuru",
-    resume: "https://github.com/mahesh-maddhuru"
+    resume: "https://github.com/mahesh-maddhuru/resume-latex/blob/bb89f0c1090e4152b23a1838075ee05c1e4bcaa4/Mahesh_CV.pdf"
   },
   education: [
     {
@@ -231,7 +231,7 @@ let info = {
       name: "Grocery-listing-react",
       pictures: [
         // {
-        //   img: require("./src/assets/portfolio/clumpr/logo.png")
+        //   img: require("./src/assets/portfolio/clumpr/icon.png")
         // },
         {
           img: require("./src/assets/portfolio/grocery/one.png")
