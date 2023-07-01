@@ -13,7 +13,7 @@ let info = {
   links: {
     linkedin: "http://www.linkedin.com/in/mahesh-m97",
     github: "https://github.com/mahesh-maddhuru",
-    resume: "https://github.com/mahesh-maddhuru/resume-latex/blob/bb89f0c1090e4152b23a1838075ee05c1e4bcaa4/Mahesh_CV.pdf"
+    resume: "https://mahesh-maddhuru.github.io/resume-latex/mahesh-maddhuru.pdf"
   },
   education: [
     {
