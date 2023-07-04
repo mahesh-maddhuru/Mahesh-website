@@ -75,6 +75,7 @@ span {
 .btn {
   border-color: white;
   color: white;
+  box-shadow: 0 0 3px 0 #0008;
 }
 
 .btn:hover {

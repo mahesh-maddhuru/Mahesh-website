@@ -2,8 +2,8 @@
   <div
     class="py-4 p-st"
     :class="{
-      'bg-light': !nightMode,
-      'bg-dark2': nightMode,
+      'bg-white': !nightMode,
+      'bg-dark': nightMode,
       'text-light': nightMode,
     }"
   >
@@ -216,12 +216,14 @@ export default {
   padding: 10px;
   width: 50%;
   transition: all 1s;
+  box-shadow: 0 0 3px 0 #0008;
 }
 
 .btn {
   border-color: #669db3ff;
   color: #669db3ff;
   width: 50%;
+  box-shadow: 0 0 5px 0 #0008;
 }
 
 .btn:hover {

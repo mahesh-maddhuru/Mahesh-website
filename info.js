@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "As a software engineer, I've had the privilege of gaining over three and a half years of valuable professional experience. Throughout my journey, I've cultivated three core pillars that continue to fuel my passion for this field: \"Inquisitiveness,\" \"Perseverance,\" and \"Insightfulness.\" These pillars have been carefully nurtured, shaping me into the engineer I am today, and allowing me to stand out in a bustling community of talented individuals. With these strengths at my disposal, I find myself driven to create innovative solutions that have a meaningful impact. I am grateful for the opportunities that have come my way, and I'm eager to continue learning and growing in this ever-evolving field.",
+    "I am an experienced software engineer with a proven track record in developing and optimizing infrastructure and systems. Proficient in (OCI) Oracle Cloud Infrastructure (Compute) and skilled in full-stack development, I have successfully led and developed projects that have significantly improved efficiency and stability. My expertise includes designing complex algorithms, implementing authorization layers, optimizing APIs, and building reusable UI components. With a strong focus on problem-solving and attention to detail, I have consistently delivered high-quality solutions while working under tight deadlines. Committed to continuous learning and staying up-to-date with emerging technologies, I am now seeking new opportunities to contribute my skills and expertise in a challenging environment.",
   links: {
     linkedin: "http://www.linkedin.com/in/mahesh-m97",
     github: "https://github.com/mahesh-maddhuru",
@@ -272,19 +272,19 @@ let info = {
   ],
    recommendations: [
      {
-       title: "TBD",
-       author: "TBD",
-       position: "TBD",
-       company: "TBD",
-       location: "TBD"
+       title: "Focussed, Dedicated, Hardworking, Team player and what not. There are many adjectives one could associate Mahesh with. He is capable of single handedly addressing critical issues and features and also can guide/lead team members into developing quality products. Mahesh is clearly a developer any one would love working with. He clearly is more than \'Member of Technical Staff SDE2\'.",
+       author: "Akshay L",
+       position: "R&D Manager",
+       company: "Oracle Cloud Infrastructure",
+       location: "Bangalore, IN"
      },
-    {
-      title: "TBD1",
-      author: "TBD1",
-      position: "TBD1",
-      company: "TBD1",
-      location: "TBD1"
-    }
+     {
+       title: "I had the pleasure of working with Mahesh at Akamai. He is very skilled in web development and has great approach to problem solving. He has good understanding of OOPS concepts and tries to drill the requirements to understand the problem in depth. He is an asset to any team.",
+       author: "Himanshu Singhal",
+       position: "Senior Software Engineer",
+       company: "Akamai Technologies",
+       location: "Bangalore, IN"
+     }
   ]
 };
 
