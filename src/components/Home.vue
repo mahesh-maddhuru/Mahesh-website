@@ -125,6 +125,7 @@ img {
 .btn {
   border-color: #669db3ff;
   color: #669db3ff;
+  box-shadow: 0 0 5px 0 #0008;
 }
 
 .btn:hover {
