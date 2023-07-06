@@ -123,13 +123,13 @@ img {
 }
 
 .btn {
-  border-color: #669db3ff;
-  color: #669db3ff;
+  border-color: rgb(212, 149, 97);
+  color: rgb(212, 149, 97);
 }
 
 .btn:hover {
-  background-color: #669db3ff;
-  border-color: #669db3ff;
+  background-color: rgb(212, 149, 97);
+  border-color: rgb(212, 149, 97);
   color: white;
 }
 
