@@ -98,7 +98,7 @@
           data-aos-duration="1000"
           data-aos-offset="50"
         >
-          Send
+          Send Email
         </button>
       </div>
 
@@ -216,20 +216,21 @@ export default {
   padding: 10px;
   width: 50%;
   transition: all 1s;
-  box-shadow: 0 0 3px 0 #0008;
-}
-
-.btn {
-  border-color: #669db3ff;
-  color: #669db3ff;
-  width: 50%;
   box-shadow: 0 0 5px 0 #0008;
 }
 
+.btn {
+  //border-color: white;
+  color: #535a5e;
+  width: 50%;
+  box-shadow: 0 0 5px 0 #0008;
+  font-weight: bold;
+}
+
 .btn:hover {
-  background-color: #669db3ff;
-  border-color: #669db3ff;
-  color: white;
+  background-color: white;
+  border-color: white;
+  color: #535a5e;
 }
 
 .btn:focus {
@@ -239,7 +240,7 @@ export default {
 }
 
 .pgray-dark {
-  background-color: #3c4148 !important;
+  background-color: #283f53 !important;
 }
 
 @media screen and (max-width: 1000px) {
