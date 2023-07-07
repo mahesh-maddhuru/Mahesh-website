@@ -51,7 +51,7 @@
                       class="btn btn-outline-secondary mx-2 "
                       @click="open(e.url)"
                   >
-                    <i class="fas fa-award"></i> View patent
+                    <i class="fas fa-award"></i> {{e.buttonName}}
                   </button>
                 </div>
                 <p class="m-2"></p>
