@@ -131,21 +131,21 @@ export default {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #082032;
   border-radius: 9px;
-  border: 2px solid white; /* Use your background color instead of White */
+  border: 2px solid #082032; /* Use your background color instead of White */
   background-clip: content-box;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: rgb(212, 149, 97);
   border-radius: 9px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: rgb(212, 149, 97);
 }
 
 .tooltip {
