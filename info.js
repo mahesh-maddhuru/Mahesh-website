@@ -51,6 +51,20 @@ let info = {
       skills: []
     }
   ],
+  publication: [
+    {
+      name: "Intellectual Property",
+      place: "India",
+      date: "June, 2021",
+      degree: "System and method for implementation of inter-network transaction process in blockchain distribution networks",
+      gpa: "",
+      description:[],
+      skills: [],
+      isButton: true,
+      buttonName:"View Patent",
+      url: "https://patentscope.wipo.int/search/en/detail.jsf?docId=IN326376132"
+    }
+  ],
   experience: [
     {
       name: "Oracle Cloud Infrastructure (OCI)",

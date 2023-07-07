@@ -134,12 +134,6 @@ img {
 }
 
 .btn:focus {
-  background-color: #669db3ff;
-  border-color: #669db3ff;
-  color: white;
-}
-
-.btn:focus {
   outline: none !important;
 }
 
