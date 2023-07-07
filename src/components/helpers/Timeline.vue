@@ -46,6 +46,14 @@
                   :class="{ 'bg-dark2': nightMode }"
                   >{{ s }}</span
                 >
+                <div class="text-left pb-4" v-if="e.isButton">
+                  <button
+                      class="btn btn-outline-secondary mx-2 "
+                      @click="open(e.url)"
+                  >
+                    <i class="fas fa-award"></i> {{e.buttonName}}
+                  </button>
+                </div>
                 <p class="m-2"></p>
               </div>
             </li>
@@ -67,6 +75,11 @@ export default {
       type: Boolean,
     },
   },
+  methods: {
+    open(url) {
+      window.open(url, "_blank");
+    }
+  }
 };
 </script>
 
@@ -131,5 +144,16 @@ ul.timeline > li:before {
 
 .bg-dark2 {
   background-color: #3c4148 !important;
+}
+
+.btn {
+  border-color: rgb(212, 149, 97);
+  color: rgb(212, 149, 97);
+}
+
+.btn:hover {
+  background-color: rgb(212, 149, 97);
+  border-color: rgb(212, 149, 97);
+  color: white;
 }
 </style>

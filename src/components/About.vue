@@ -30,6 +30,7 @@
         </div>
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <Timeline :data="education" :nightMode="nightMode" />
+          <Timeline :data="publication" :nightMode="nightMode" />
         </div>
       </div>
     </div>
@@ -60,6 +61,10 @@ export default {
       experience: {
         title: "experiences",
         data: info.experience,
+      },
+      publication: {
+        title: "publication",
+        data: info.publication,
       },
     };
   },
