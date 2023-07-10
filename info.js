@@ -71,12 +71,12 @@ let info = {
       place: "Bangalore, IN",
       date: "October, 2021 - December 2022",
       position: "Member of Technical Staff IC2 (SDE-2)",
-      description:["Led and developed entire infrastructure for an emergent system to apply quick patches to live hypervisors.",
+      description:["Led a project aimed at applying rapid patches to live hypervisors and developed its entire infrastructure, effectively bringing down the patching time to under 15 minutes.",
           "Successfully navigated the project through the CSSAP security review process.",
           "Redesigned and developed modules for Yum management, linux system file modification, custom package installation, and validations.",
           "These Modules optimized the 'image build pipeline', reducing build time by approximately 25% and enhancing its stability.",
-          "Developed a versatile Maven plugin for parallel Docker image retrieval on all build hosts.",
-          "As the Release coordinator, deployed the updated Hypervisor base image on the Virtual Machine Infrastructure fleet.",
+          "Developed a versatile Maven plugin for parallel Docker image retrieval on all build hosts, thus reducing the test suit execution time by 20%.",
+          "As the Release coordinator, deployed the updated Hypervisor base image on the Virtual Machine Infrastructure fleet on various OCI regions",
           "As an On-Call engineer, successfully resolved a multitude of customer issues."
       ],
         skills: [
@@ -96,12 +96,11 @@ let info = {
       place: "Bangalore, IN",
       date: "January, 2019 – September, 2021",
       position: "Software Engineer II + Software Engineer + Intern",
-      description:["Designed and developed the \"Activation\" algorithm, reducing product operations team's efforts by 50% through complex business logic computation (calculating the product’s pricing based on region, rate card, partner discount, etc.) and automated product launch lifecycle with smart retry mechanism.",
+      description:["Designed and developed the \"Activation\" algorithm, which automated the product launch lifecycle with a smart retry mechanism and reduced the product operations team's efforts by 50%. It efficiently handled complex business logic, including the calculation of product pricing based on factors like region, rate card, and partner discount.",
         "Developed Authorization layer from the ground up with granular data access control.",
-        "Developed a lock mechanism to prevent product data changes in a non-draft state during configuration workflow.",
-        "Devised and optimized partner open APIs for fast reads (<1.5 seconds response time).",
-        "Improved response times for client APIs by implementing inter-service calls and data caching.",
-        "Facilitated integration of multiple client systems with our services.",
+        "Developed a robust lock mechanism to prevent product data changes in a non-draft state during configuration workflow.",
+        "Implemented inter-service communication and data caching for client and partner APIs to ensure fast response times (<1 second).",
+        "Streamlined integration processes to facilitate seamless connectivity between our services and multiple client systems.",
         "Built many reusable UI components on AngularJS for configuring product metadata."
       ],
       skills: [
