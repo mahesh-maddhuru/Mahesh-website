@@ -19,7 +19,7 @@ let info = {
     {
       name: "Virginia Tech",
       place: "Blacksburg, VA, USA",
-      date: "January, 2023 - December, 2023",
+      date: "January, 2023 - May, 2024",
       degree: "MEng in Computer Science",
       gpa: "3.92/4.0",
       description:["Networks and Protocols", "Network Security", "Information Security", "Blockchain","Information Storage and Retrieval","Web Development", "Machine Learning", "Al Tools Software Development"],
